@@ -1,6 +1,6 @@
-## ECFSW-SyntheticData
+# ECFSW-SyntheticData
 
-📊 **Synthetic datasets for the paper**  
+## 📊 Synthetic datasets for the paper**  
 *Effective Feature-Sample Co-Clustering by Adaptive Feature-Sample Co-Weighting (ECFSW)*
 
 ---
